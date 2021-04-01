@@ -1,0 +1,5 @@
+.idea/
+venv/
+
+# Deployment Packgages
+*.zip
